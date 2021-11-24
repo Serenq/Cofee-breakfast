@@ -138,14 +138,14 @@
 }());
 
 ;(function(){
-   var img_ln = $('img').length;
 
    function hidePreloader(){
       var preloader = $('.site-preloader');
       if( !preloader.hasClass('removed') ) preloader.addClass('removed');
    }
+   //setTimeout(hidePreloader, 1000);
 
-   setTimeout(hidePreloader, 1000);
+   window.onload = hidePreloader;
 }());
 
 //Яндекс карты
