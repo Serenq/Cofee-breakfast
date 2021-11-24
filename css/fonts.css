@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'BadScriptRegular';
+	src: url('../fonts/BadScriptRegular.eot');
+	src: local('☺'),
+       url('../fonts/BadScriptRegular.ttf') format('truetype');
+       font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+       font-family: 'cambria';
+       src: url('../fonts/cambria.eot');
+       src: local('☺'),
+       url('../fonts/cambria.ttf') format('truetype');
+       font-weight: normal;
+       font-style: normal;
+}
+
+@font-face {
+	font-family: 'cambriab';
+	src: url('../fonts/cambriab.eot');
+	src: local('☺'),
+       url('../fonts/cambriab.ttf') format('truetype');
+       font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'cambriai';
+	src: url('../fonts/cambriai.eot');
+	src: local('☺'),
+       url('../fonts/cambriai.ttf') format('truetype');
+       font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'cambriaz';
+	src: url('../fonts/cambriaz.eot');
+	src: local('☺'),
+       url('../fonts/cambriaz.ttf') format('truetype');
+       font-weight: normal;
+	font-style: normal;
+}
