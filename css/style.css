@@ -1765,35 +1765,39 @@ ul.mainMenu {
         margin: 0 0 5px
     }
 
+    .representation__kofe-bulka-sub-Item.--item-1 {
+        width: 290px;
+    }
+
     .representation__kofe-bulka-sub-Item.--item-1 p {
         font-size: 18px;
         left: auto;
-        line-height: 30px;
+        line-height: 24px;
         position: relative;
-        width: 397px
+        width: auto;
     }
 
     .representation__kofe-bulka-sub-Item.--item-1 p+p {
         left: auto;
         position: relative;
-        width: 427px
+        width: auto;
     }
 
     .representation__kofe-bulka-sub-Item.--item-2 p {
         font-size: 20px;
         left: auto;
-        line-height: 28px;
+        line-height: 24px;
         position: relative;
         top: auto;
-        width: 360px
+        width: auto;
     }
 
     .representation__kofe-bulka-sub-Item.--item-3 p {
-        width: 290px;
+        width: 200px;
         display: block;
         font-family: cambriai;
-        font-size: 20px;
-        line-height: 28px;
+        font-size: 18px;
+        line-height: 24px;
         margin: 0;
         position: relative;
         top: 137px;
